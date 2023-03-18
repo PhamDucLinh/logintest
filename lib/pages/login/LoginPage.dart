@@ -102,7 +102,7 @@ class _LoginPageState extends State<LoginPage> {
               height: 25,
             ),
             Row(
-
+              mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
 
                 ElevatedButton(
